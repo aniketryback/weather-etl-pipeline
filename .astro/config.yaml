@@ -1,0 +1,4 @@
+project:
+    name: astro-etl-project
+    airflow:
+        port: 8081  # change from 8080 to something else
